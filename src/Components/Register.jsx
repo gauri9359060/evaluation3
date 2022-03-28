@@ -47,7 +47,7 @@ const Register = () => {
         'Content-type': 'application/json; charset=UTF-8',
       },
     }).then((res)=>{
-      setFormData(res)
+      console.log(res)
     }).then((err)=>console.log(err))
 
   };

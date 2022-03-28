@@ -1,93 +1,100 @@
 {
-    "Product":[
-        {
-            "product":"T-Shirt",
-            "price" : 400,
-            "category":"clothing"
-        },
-        {
-            "product":"Saree",
-            "price" : 600,
-            "category":"clothing"
-        },
-        {
-            "product":"Noodles",
-            "price" : 50,
-            "category":"Food"
-        },
-        {
-            "product":"Burger",
-            "price" : 50,
-            "category":"Food"
-        },
-        {
-            "product":"Refrigerator",
-            "price" : 60000,
-            "category":"Electronics"
-        },
-        {
-            "product":"Bulb",
-            "price" : 60,
-            "category":"Electronics"
-        },
-        {
-            "product":"Pen",
-            "price" : 5,
-            "category":"stationary"
-        },
-        {
-            "product":"Pencil",
-            "price" : 20,
-            "category":"stationary"
-        }
-    ],
-    "clothing":[
-        {
-            "product":"T-Shirt",
-            "price" : 400,
-            "category":"clothing"
-        },
-        {
-            "product":"Saree",
-            "price" : 600,
-            "category":"clothing"
-        }
-
-    ],
-    "Electronics":[
-        {
-            "product":"Refrigerator",
-            "price" : 60000,
-            "category":"Electronics"
-        },
-        {
-            "product":"Bulb",
-            "price" : 60,
-            "category":"Electronics"
-        }
-    ],
-    "Food":[
-        {
-            "product":"Noodles",
-            "price" : 50,
-            "category":"Food"
-        },
-        {
-            "product":"Burger",
-            "price" : 50,
-            "category":"Food"
-        }
-    ],
-    "stationary":[
-        {
-            "product":"Pen",
-            "price" : 5,
-            "category":"stationary"
-        },
-        {
-            "product":"Pencil",
-            "price" : 20,
-            "category":"stationary"
-        }
-    ]
+  "Product": [
+    {
+      "product": "T-Shirt",
+      "price": 400,
+      "category": "clothing",
+      "id": 1
+    },
+    {
+      "product": "Saree",
+      "price": 600,
+      "category": "clothing",
+      "id": 2
+    },
+    {
+      "product": "Noodles",
+      "price": 50,
+      "category": "Food",
+      "id": 3
+    },
+    {
+      "product": "Burger",
+      "price": 50,
+      "category": "Food",
+      "id": 4
+    },
+    {
+      "product": "Refrigerator",
+      "price": 60000,
+      "category": "Electronics",
+      "id": 5
+    },
+    {
+      "product": "Bulb",
+      "price": 60,
+      "category": "Electronics",
+      "id": 6
+    },
+    {
+      "product": "Pen",
+      "price": 5,
+      "category": "stationary",
+      "id": 7
+    },
+    {
+      "product": "Pencil",
+      "price": 20,
+      "category": "stationary",
+      "id": 8
+    }
+  ],
+  "clothing": [
+    {
+      "product": "T-Shirt",
+      "price": 400,
+      "category": "clothing"
+    },
+    {
+      "product": "Saree",
+      "price": 600,
+      "category": "clothing"
+    }
+  ],
+  "Electronics": [
+    {
+      "product": "Refrigerator",
+      "price": 60000,
+      "category": "Electronics"
+    },
+    {
+      "product": "Bulb",
+      "price": 60,
+      "category": "Electronics"
+    }
+  ],
+  "Food": [
+    {
+      "product": "Noodles",
+      "price": 50,
+      "category": "Food"
+    },
+    {
+      "product": "Burger",
+      "price": 50,
+      "category": "Food"
+    }
+  ],
+  "stationary": [
+    {
+      "product": "Pen",
+      "price": 5,
+      "category": "stationary"
+    },
+    {
+      "product": "Pencil",
+      "price": 20,
+      "category": "stationary"
+    }
+  ]
 }
